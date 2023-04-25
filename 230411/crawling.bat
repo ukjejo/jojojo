@@ -1,0 +1,1 @@
+python C:\Users\user\Desktop\욱\230411\crawlling.py
